@@ -1,2 +1,1 @@
-# documents
-Items pending migration to a stable reference location.
+Content, notes, and sources from others pending integration.
